@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1535322368 source:c:\users\super\documents\c\grafolistadj\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+	"Grafo.h"
+
+1535322414 c:\users\super\documents\c\grafolistadj\include\grafo.h
+	<iostream>
+	<list>
+	<algorithm>
+	<stack>
+	<queue>
+
+1535322266 source:c:\users\super\documents\c\grafolistadj\src\grafo.cpp
+	"Grafo.h"
+
+1535403560 source:c:\users\newtec\downloads\c\grafolistadj\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+	"Grafo.h"
+
+1535403406 c:\users\newtec\downloads\c\grafolistadj\include\grafo.h
+	<iostream>
+	<list>
+	<algorithm>
+	<stack>
+	<queue>
+
+1535403376 source:c:\users\newtec\downloads\c\grafolistadj\src\grafo.cpp
+	"Grafo.h"
+
